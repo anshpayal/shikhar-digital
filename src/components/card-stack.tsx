@@ -59,8 +59,8 @@ export const CardStack = ({
           >
             <div className="p-4">
               <img src={quotes} alt="quotes-icon" className="w-8 h-10"></img>
-              <p className="text-lg text-white mt-2">{card.content}</p>
-              <p className="text-md text-gray-400 mt-2">@{card.name}</p>
+              <h3 className="text-lg text-white mt-2">{card.content}</h3>
+              <h4 className="text-md text-gray-400 mt-2">@{card.name}</h4>
               <p className="text-md text-gray-400">📍{card.location}</p>
             </div>
 
