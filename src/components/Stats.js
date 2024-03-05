@@ -1,7 +1,7 @@
 import { stats } from "../constants";
 
 const Stats = () => (
-  <section className={`sm:mb-20 mb-6 border border-[#9dedf0]  sm:my-24 my-6 p-6 rounded-xl`}>
+  <section className={`sm:mb-20 mb-6 border border-[#9dedf0]  sm:my-24 my-16 p-6 rounded-xl`}>
     <h1 className=" flex justify-center items-center text-center font-poppins font-normal xs:text-[40.89px] text-[30.89px] text-gradient">
       Unveiling Our Impact
     </h1>

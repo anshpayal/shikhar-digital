@@ -9,7 +9,7 @@ const Portfolio = () => {
   const buttonNames = ["All", "Content Creation", "Instagram Growth"];
 
   return (
-    <section id="portfolio" className=" sm:my-32 my-6 ">
+    <section id="portfolio" className=" sm:my-32 my-16 ">
       <div className="text-center my-4">
         <h2 className={styles.heading2}>Portfolio</h2>
         <div className="flex justify-center gap-x-8 my-4">
